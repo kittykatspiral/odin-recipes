@@ -1,1 +1,1 @@
-A project to learn the basics of the basics of the basics of HTML
+A project to learn HTML basics; first project of The Odin Project
